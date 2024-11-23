@@ -1,11 +1,11 @@
-Simple text
+Strong text
 .
 test __test__ test
 .
 <p>test <strong>test</strong> test</p>
 .
 
-One page number
+Underline text
 .
 test _test_ test
 .
