@@ -38,3 +38,13 @@ md.use(mk);
 
 var result = md.render("this test is _underline_");
 ```
+
+## CSS
+
+Example CSS
+
+```
+.md-it-underline {
+    text-decoration: underline;
+}
+```
